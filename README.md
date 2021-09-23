@@ -1,1 +1,1 @@
-# Website of the "Voluit Conterere" guild on the Minecraft server "VimeWorld"
+## Website of the "Voluit Conterere" guild on the Minecraft server "VimeWorld"
